@@ -1,0 +1,4 @@
+node_modules
+lib/
+test/data/schema.json
+test/data/schema.graphql
